@@ -4,7 +4,7 @@ from config import OWNER
 
 class TEXT:
     START = """
-<b>Hi {}, I'm The Powerfull Personal Bot.\n\n Don't Waste Your Time </b>[ <i> Made With Love By @mn_movies_bot </i> ].
+<b>Hi {}, I'm The Powerfull Personal Bot.\n\n Don't Waste Your Time </b>[ <i> Made With Love By @CC_Telegram_Helper_Bot </i> ].
 """
     DEVELOPER = "Developer 💀"
     UPDATES_CHANNEL = "Updates Channel ❣️"
