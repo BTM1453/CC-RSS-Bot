@@ -15,17 +15,17 @@ class INLINE:
     START_BTN = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(TEXT.DEVELOPER, url="https://t.me/mn_movies_bot"),
+                InlineKeyboardButton(TEXT.DEVELOPER, url="https://t.me/CC_Telegram_Helper_Bot"),
             ],
             [
                 InlineKeyboardButton(
-                    TEXT.UPDATES_CHANNEL, url="https://t.me/MNBots"
+                    TEXT.UPDATES_CHANNEL, url="https://t.me/+SYC6eszIPyIxMjM1"
                 ),
             ],
             [
                 InlineKeyboardButton(
                     TEXT.SOURCE_CODE,
-                    url="https://github.com/MN-bots/Tamil-Blasters-Rss-Bot",
+                    url="https://t.me/TBM_Bot_Updates",
                 ),
             ],
         ]
